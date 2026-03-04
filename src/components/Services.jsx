@@ -2,8 +2,7 @@ import React from "react";
 import ServiceCard from "./ServiceCard";
 import TV from "../assets/img/electo.png";
 import Audio from "../assets/img/phone.png";
-import Camera from "../assets/img/electro.png";
-import Phone from "../assets/tvvv.png";
+import Phone from "../assets/img/tvvv.png";
 import Scooter from "../assets/img/phone.png";
 
 function Services() {
